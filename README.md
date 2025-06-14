@@ -1,4 +1,5 @@
 🌀 Infinite Scroll Anime App
+
 This is a Next.js 14+ (App Router) web app that displays anime cards using infinite scroll. As the user scrolls down, new anime are dynamically fetched from the Shikimori API and displayed with smooth animations using Framer Motion.
 
 🚀 Tech Stack
